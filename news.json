@@ -1,0 +1,43 @@
+[
+    {
+        title: '嘉兴港指定监管场地获批！普冷提供专业冷链运营服务',
+        excerpt: '日前，嘉兴港综合性指定监管场地通过海关总署验收，开始投入使用。这是杭州海关辖区首个海港口岸综合性指定监管场地，位于普冷中润嘉兴乍浦库内，标志着进境水果、肉类、食用水生动物和冰鲜水产品可直接从嘉兴港乍浦口岸进口，在海关监管下，在普冷中润嘉兴乍浦库完成查验、多温区存储、产品增值加工、放行全流程，并通过普冷冷链网络送达全国各地。',
+        date: '2025-03-25',
+        category: '产品更新',
+        image: 'https://gfs-website-front.oss-cn-shanghai.aliyuncs.com/news/d9459a01-34f8-46c3-96fe-2a82592505f2.png',
+        readMorePage:'1003.html'
+    },
+    {
+        title: '普冷获授AEO高级认证，冷链“绿色通道”加速通关',
+        excerpt: '近日，海关AEO高级认证授牌仪式顺利举行，普冷国际物流（上海）有限公司成功获授“AEO高级认证企业”资质，拿到全球贸易中的“绿色通行证”。',
+        date: '2024-11-14',
+        category: '产品更新',
+        image: 'https://gfs-website-front.oss-cn-shanghai.aliyuncs.com/news/fe2c2c84-9f77-4226-b01c-4daa639dd16b.png',
+        readMorePage:'1004.html'
+    },
+    {
+        title: '达美乐与普冷再度携手 推进餐饮仓配合作',
+        excerpt: '知名披萨品牌达美乐入驻普冷青岛仓，此为双方持续推进合作的第四仓。近日，知名披萨品牌达美乐入驻普冷青岛城阳仓。这是普冷与达美乐持续推进合作的第四仓。此前，由普冷提供物流服务的达美乐西安创下该品牌全球门店单日销售额第一的纪录。',
+        date: '2024-05-10',
+        category: '企业新闻',
+        image: 'https://gfs-website-front.oss-cn-shanghai.aliyuncs.com/news/88022c1a-934b-4fe7-b50a-58793f18079c.png',
+        readMorePage:'1000.html'
+    },
+    {
+        title: '普冷获评国家五星级综合型冷链物流企业',
+        excerpt: '4月28日，中国物流与采购联合会正式向普冷授牌“综合型五星级冷链物流企业”。这是普冷首次参加星级评选，并一次性通过了最高等级的评审。这是普冷人经过近五年的不懈努力，用心精进，狠抓“卓越服务”，取得的成果。',
+        date: '2024-04-29',
+        category: '行业动态',
+        image: 'https://gfs-website-front.oss-cn-shanghai.aliyuncs.com/news/36f46b08657d62ab6347688bca60ca6d.png',
+        readMorePage:'1001.html'
+    },
+    {
+        title: '为智慧冷链插上“移动”的翅膀',
+        excerpt: '今天，“普冷通”移动版正式上线了，普冷的数据化建设从PC时代进入了“移动”时代。从此，客户可以离开办公室和电脑，随时随地、随心所欲地管理自己的冷链物流。',
+        date: '2024-04-23',
+        category: '产品更新',
+        image: 'https://gfs-website-front.oss-cn-shanghai.aliyuncs.com/news/387a10f24de3f4e0df8f34a428bf19a5.png',
+        readMorePage:'1002.html'
+    }
+
+]
