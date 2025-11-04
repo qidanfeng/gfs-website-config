@@ -4,19 +4,19 @@
     "desc": "从工厂到超市货架，我们为商超供应链提供物流解决方案，帮助供应商降低履约成本，保障生鲜食品的品质与安全",
     "items": [
       {
-        "icon": "",
+        "icon": "fas fa-warehouse",
         "desc": "全温区仓库设计与定建"
       },
       {
-        "icon": "",
+        "icon": "fas fa-truck",
         "desc": "WMS/TMS定制商超模块"
       },
       {
-        "icon": "",
+        "icon": "fas fa-cubes",
         "desc": "供应商库存管理"
       },
       {
-        "icon": "",
+        "icon": "fas fa-gears",
         "desc": "供应商交仓、交店一站式服务"
       }
     ]
@@ -26,19 +26,19 @@
     "desc": "为餐饮企业提供定制化冷链配送服务，保障食材新鲜与安全，满足不同餐饮业态需求",
     "items": [
       {
-        "icon": "",
+        "icon": "fas fa-utensils",
         "desc": "餐饮冷链配送，定时定点送达"
       },
       {
-        "icon": "",
+        "icon": "fas fa-temperature-low",
         "desc": "全程温控监控，确保食材品质"
       },
       {
-        "icon": "",
+        "icon": "fas fa-chart-line",
         "desc": "智能调度系统，优化配送路线"
       },
       {
-        "icon": "",
+        "icon": "fas fa-balance-scale",
         "desc": "产品订存管理，进出口贸易履约"
       }
     ]
@@ -48,15 +48,15 @@
     "desc": "进出口食品冷链物流服务，全球端到端供应链解决方案",
     "items": [
       {
-        "icon": "",
+        "icon": "fas fa-globe",
         "desc": "进出口清关、仓储与运输一站式服务"
       },
       {
-        "icon": "",
+        "icon": "fas fa-passport",
         "desc": "全球供应链计划"
       },
       {
-        "icon": "",
+        "icon": "fas fa-sync-alt",
         "desc": "全球供应链履约服务"
       }
     ]
